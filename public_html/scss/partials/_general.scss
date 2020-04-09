@@ -1,0 +1,12 @@
+$default-font: $lato;
+img{
+    max-width: 100%;
+}
+
+html{
+    font-size: 10px; // 1 rem
+}
+body{
+    font-family: $default-font;
+    font-size: $font-wight-light;
+}
